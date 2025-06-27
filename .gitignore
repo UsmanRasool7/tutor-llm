@@ -1,0 +1,9 @@
+backend/.venv/
+frontend/node_modules/
+pycache/
+*.pyc
+*.pyd
+*.so
+*.dll
+*.lib
+.env
